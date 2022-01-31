@@ -1,0 +1,1 @@
+(()=>{"use strict";var o;console.log((o="hi there").charAt(0).toUpperCase()+o.slice(1)),console.log("emordnilap a ton saw siht".split("").reverse().join(""));console.log("5 + 5 = "+(5+5)),console.log("5 + 5 = "+((o,e)=>o-e)(5,5)),console.log("5 + 5 = "+((o,e)=>o*e)(5,5)),console.log("5 + 5 = "+((o,e)=>o/e)(5,5))})();
